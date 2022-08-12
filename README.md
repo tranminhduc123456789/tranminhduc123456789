@@ -1,4 +1,4 @@
-### **<img alt = "Coding" src="https://media.giphy.com/media/biiIM6LJGKfJPKpQnm/giphy-downsized-large.gif" class = "center">
+### 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/biiIM6LJGKfJPKpQnm/giphy-downsized-large.gif">
 </p>
