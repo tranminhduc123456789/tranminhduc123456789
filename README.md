@@ -1,4 +1,7 @@
-### <img alt = "Coding" src="https://media.giphy.com/media/biiIM6LJGKfJPKpQnm/giphy-downsized-large.gif" class = "center">
+### **<img alt = "Coding" src="https://media.giphy.com/media/biiIM6LJGKfJPKpQnm/giphy-downsized-large.gif" class = "center">
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/biiIM6LJGKfJPKpQnm/giphy-downsized-large.gif">
+</p>
 
 <!--
 **tranminhduc123456789/tranminhduc123456789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
